@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/diegofranca/Projects/CleanArchMvc/CleanArchMvc/CleanArchMvc.Infra.Data/CleanArchMvc.Infra.Data.csproj": {}
+  },
+  "projects": {
+    "/Users/diegofranca/Projects/CleanArchMvc/CleanArchMvc/CleanArchMvc.Domain/CleanArchMvc.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/diegofranca/Projects/CleanArchMvc/CleanArchMvc/CleanArchMvc.Domain/CleanArchMvc.Domain.csproj",
+        "projectName": "CleanArchMvc.Domain",
+        "projectPath": "/Users/diegofranca/Projects/CleanArchMvc/CleanArchMvc/CleanArchMvc.Domain/CleanArchMvc.Domain.csproj",
+        "packagesPath": "/Users/diegofranca/.nuget/packages/",
+        "outputPath": "/Users/diegofranca/Projects/CleanArchMvc/CleanArchMvc/CleanArchMvc.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/diegofranca/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/diegofranca/Projects/CleanArchMvc/CleanArchMvc/CleanArchMvc.Infra.Data/CleanArchMvc.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/diegofranca/Projects/CleanArchMvc/CleanArchMvc/CleanArchMvc.Infra.Data/CleanArchMvc.Infra.Data.csproj",
+        "projectName": "CleanArchMvc.Infra.Data",
+        "projectPath": "/Users/diegofranca/Projects/CleanArchMvc/CleanArchMvc/CleanArchMvc.Infra.Data/CleanArchMvc.Infra.Data.csproj",
+        "packagesPath": "/Users/diegofranca/.nuget/packages/",
+        "outputPath": "/Users/diegofranca/Projects/CleanArchMvc/CleanArchMvc/CleanArchMvc.Infra.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/diegofranca/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/diegofranca/Projects/CleanArchMvc/CleanArchMvc/CleanArchMvc.Domain/CleanArchMvc.Domain.csproj": {
+                "projectPath": "/Users/diegofranca/Projects/CleanArchMvc/CleanArchMvc/CleanArchMvc.Domain/CleanArchMvc.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

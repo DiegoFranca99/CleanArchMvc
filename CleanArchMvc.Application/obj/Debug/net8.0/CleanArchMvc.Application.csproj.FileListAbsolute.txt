@@ -1,0 +1,15 @@
+/Users/diegofranca/Projects/CleanArchMvc/CleanArchMvc/CleanArchMvc.Application/bin/Debug/net8.0/CleanArchMvc.Application.deps.json
+/Users/diegofranca/Projects/CleanArchMvc/CleanArchMvc/CleanArchMvc.Application/bin/Debug/net8.0/CleanArchMvc.Application.dll
+/Users/diegofranca/Projects/CleanArchMvc/CleanArchMvc/CleanArchMvc.Application/bin/Debug/net8.0/CleanArchMvc.Application.pdb
+/Users/diegofranca/Projects/CleanArchMvc/CleanArchMvc/CleanArchMvc.Application/bin/Debug/net8.0/CleanArchMvc.Domain.dll
+/Users/diegofranca/Projects/CleanArchMvc/CleanArchMvc/CleanArchMvc.Application/bin/Debug/net8.0/CleanArchMvc.Domain.pdb
+/Users/diegofranca/Projects/CleanArchMvc/CleanArchMvc/CleanArchMvc.Application/obj/Debug/net8.0/CleanArchMvc.Application.csproj.AssemblyReference.cache
+/Users/diegofranca/Projects/CleanArchMvc/CleanArchMvc/CleanArchMvc.Application/obj/Debug/net8.0/CleanArchMvc.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diegofranca/Projects/CleanArchMvc/CleanArchMvc/CleanArchMvc.Application/obj/Debug/net8.0/CleanArchMvc.Application.AssemblyInfoInputs.cache
+/Users/diegofranca/Projects/CleanArchMvc/CleanArchMvc/CleanArchMvc.Application/obj/Debug/net8.0/CleanArchMvc.Application.AssemblyInfo.cs
+/Users/diegofranca/Projects/CleanArchMvc/CleanArchMvc/CleanArchMvc.Application/obj/Debug/net8.0/CleanArchMvc.Application.csproj.CoreCompileInputs.cache
+/Users/diegofranca/Projects/CleanArchMvc/CleanArchMvc/CleanArchMvc.Application/obj/Debug/net8.0/CleanArc.49502176.Up2Date
+/Users/diegofranca/Projects/CleanArchMvc/CleanArchMvc/CleanArchMvc.Application/obj/Debug/net8.0/CleanArchMvc.Application.dll
+/Users/diegofranca/Projects/CleanArchMvc/CleanArchMvc/CleanArchMvc.Application/obj/Debug/net8.0/refint/CleanArchMvc.Application.dll
+/Users/diegofranca/Projects/CleanArchMvc/CleanArchMvc/CleanArchMvc.Application/obj/Debug/net8.0/CleanArchMvc.Application.pdb
+/Users/diegofranca/Projects/CleanArchMvc/CleanArchMvc/CleanArchMvc.Application/obj/Debug/net8.0/ref/CleanArchMvc.Application.dll
